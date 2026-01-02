@@ -1,0 +1,6 @@
+@charset "utf-8";
+.style_body {
+	
+	background-color:rgba(255,255,255,0.8);
+	top center; background-attachment:fixed;font-size:14px;font-family:arial;
+}
